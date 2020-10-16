@@ -4,9 +4,9 @@ Commands related to a remote repository:
 $ git clone git@github.com:"USER-NAME"/"REPOSITORY-NAME".git 
 $ git clone https://github.com/"user-name"/"repository-name".git
 
-$ git push origin master
+$ git push origin main
 
-$ git pull origin master
+$ git pull origin main
 
 Git commands related to workflow: 
 $ git add .
